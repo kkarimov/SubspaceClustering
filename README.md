@@ -8,5 +8,5 @@ via the Schubert Variety of Best Fit"_**](https://www.frontiersin.org/articles/1
 </p>
 <p align="center">
   <img src="https://github.com/kkarimov/SubspaceClustering/blob/96f86a8b79ba6edbe9aff091a33d69321d71451a/images/IndianPines.png" alt="" style="height: 300px; width: 49%; margin: 0px; display: inline-block; vertical-align: top;">  
-  <img src="https://github.com/kkarimov/SubspaceClustering/blob/96f86a8b79ba6edbe9aff091a33d69321d71451a/images/UFC11.png" alt="" style="height: 300px; width: 49%; margin: 0px; display: inline-block; vertical-align: top;">
+  <img src="https://github.com/kkarimov/SubspaceClustering/blob/96f86a8b79ba6edbe9aff091a33d69321d71451a/images/UCF11.png" alt="" style="height: 300px; width: 49%; margin: 0px; display: inline-block; vertical-align: top;">
 </p>
