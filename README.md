@@ -1,4 +1,4 @@
-# LBG Clustering on Grassmannian via the SVBF
+# LBG (batch k-means) Clustering on Grassmannian via the SVBF
 The code for preprint [**_"A Granular Grassmannian Clustering Framework
 via the Schubert Variety of Best Fit"_**](https://www.frontiersin.org/articles/10.3389/frai.2023.1274830/full) submitted to [arxiv.org](https://www.sciencedirect.com/journal/pattern-recognition) in 2025
 =======
